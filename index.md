@@ -20,5 +20,4 @@ The EFI Specifications were contributed to the United EFI Forum as part of the o
 <div class="tcFrontPageButtons">
 <a href="https://youtu.be/NAJ5Iwxzx_Y" target="_blank"><div class="tcButton">Watch Video</div></a>
 <a href="{{baseurl}}/getting-started.html"><div class="tcButton">Getting Started</div></a>
-<a href="{{baseurl}}/How-to-Search"><div class="tcButton">Search Wiki</div></a>
 </div>
