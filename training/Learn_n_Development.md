@@ -1,6 +1,5 @@
 ---
-layout: acgRedirect
-acgRedirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev
+layout: Default
 title: Learning and Development
 ---
 {% include site-links.md %}
