@@ -16,7 +16,7 @@ Our Monthly Meetings will focus on community news and general discussion.
 
 
 ## Community Design Meetings
-This Meeting is a chance to the Tiancore community to bring any initial design ideas and communicate those ideas to teach leaders and fellow developers.
+This Meeting is a chance for the Tiancore community to bring any initial design ideas and communicate those ideas to teach leaders and fellow developers.
 
 * For more information see: [Design Meetings]({{wiki}}/Design-Meeting){:target="_blank"} will occur bi-monthly. Please post to [the discussion list](mailto:discuss@edk2.groups.io) with any topics that you'd like to discuss.
 
