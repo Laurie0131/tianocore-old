@@ -21,4 +21,4 @@ This Meeting is a chance for the Tiancore community to bring any initial design 
 * For more information see: [Design Meetings]({{wiki}}/Design-Meeting){:target="_blank"} will occur bi-monthly. Please post to [the discussion list](mailto:discuss@edk2.groups.io) with any topics that you'd like to discuss.
 
 ## Calendar
-* See the full Tiancore community virtual meeting calendar [here](https://edk2.groups.io/g/devel/calendar) 
+* See the full Tiancore community virtual meeting calendar [here](https://edk2.groups.io/g/devel/calendar)
