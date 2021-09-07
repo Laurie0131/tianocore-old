@@ -2,6 +2,7 @@
 layout: default
 title: What is TianoCore?
 id: home2
+Strict-Transport-Security: max-age=31536000
 redirect_from:
   - /site/
 ---
