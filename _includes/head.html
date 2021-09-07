@@ -1,9 +1,14 @@
 <!--
 <base href="https://laurie0131.github.io/tianocore-old/" />
 -->
-<header class="page-header">
 
-</header>
+<system.webServer>
+  <httpProtocol>
+    <customHeaders>
+      <add name="Strict-Transport-Security" value="max-age=31536000"/>
+    </customHeaders>
+  </httpProtocol>
+</system.webServer>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
