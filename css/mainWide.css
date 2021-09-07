@@ -4,7 +4,9 @@
 // within the HTML.
 */
 @media (min-width: 800px) {
-
+header.page-header{
+	Strict-Transport-Security: max-age=31536000
+}
 /*
 // _isEnhanced()
 */
